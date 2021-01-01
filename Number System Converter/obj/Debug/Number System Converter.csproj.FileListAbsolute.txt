@@ -1,0 +1,10 @@
+C:\Users\bhava\source\repos\Number System Converter\bin\Debug\Number System Converter.exe.config
+C:\Users\bhava\source\repos\Number System Converter\bin\Debug\Number System Converter.exe
+C:\Users\bhava\source\repos\Number System Converter\bin\Debug\Number System Converter.pdb
+C:\Users\bhava\source\repos\Number System Converter\obj\Debug\Number System Converter.csprojAssemblyReference.cache
+C:\Users\bhava\source\repos\Number System Converter\obj\Debug\Number_System_Converter.Form1.resources
+C:\Users\bhava\source\repos\Number System Converter\obj\Debug\Number_System_Converter.Properties.Resources.resources
+C:\Users\bhava\source\repos\Number System Converter\obj\Debug\Number System Converter.csproj.GenerateResource.cache
+C:\Users\bhava\source\repos\Number System Converter\obj\Debug\Number System Converter.csproj.CoreCompileInputs.cache
+C:\Users\bhava\source\repos\Number System Converter\obj\Debug\Number System Converter.exe
+C:\Users\bhava\source\repos\Number System Converter\obj\Debug\Number System Converter.pdb

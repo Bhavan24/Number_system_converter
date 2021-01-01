@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number System Converter", "Number System Converter.csproj", "{C9C40E4E-4523-4CB0-8DCF-C51A07C732F3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Number System Converter Setup", "Number System Converter Setup\Number System Converter Setup.vdproj", "{03AB5F6F-B87B-466A-9755-1650E8F4A57D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9C40E4E-4523-4CB0-8DCF-C51A07C732F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C40E4E-4523-4CB0-8DCF-C51A07C732F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C40E4E-4523-4CB0-8DCF-C51A07C732F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C40E4E-4523-4CB0-8DCF-C51A07C732F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03AB5F6F-B87B-466A-9755-1650E8F4A57D}.Debug|Any CPU.ActiveCfg = Debug
+		{03AB5F6F-B87B-466A-9755-1650E8F4A57D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E97E08B-1498-4C4B-A773-27C3867177D9}
+	EndGlobalSection
+EndGlobal
